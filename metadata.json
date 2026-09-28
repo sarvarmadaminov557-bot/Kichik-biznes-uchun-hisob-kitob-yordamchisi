@@ -1,0 +1,6 @@
+{
+  "name": "BiznesPro - Kichik Biznes va Buxgalteriya SaaS",
+  "description": "Kichik biznes, do'konlar va xizmat ko'rsatish sohalari uchun zamonaviy buxgalteriya, savdo, qarzlar va moliya boshqaruvi tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
